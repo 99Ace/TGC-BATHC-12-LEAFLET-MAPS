@@ -59,6 +59,7 @@ navigator.geolocation.getCurrentPosition(position => {
       draggable: true,
       autoPan: true
     }).addTo(map);
+})
 
 
 
