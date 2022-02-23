@@ -1,0 +1,9 @@
+/* Step 2| Set up the css file */
+/* Set the map to be height of 500px, try changing the height and you will see what happen to the map */
+
+#map {
+    height: 500px;
+}
+
+/* Without a height, the height by default will be 0 when there is no content */
+/* Go to script.js */

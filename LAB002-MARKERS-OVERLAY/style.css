@@ -1,0 +1,8 @@
+/* No change from Lab 1  */
+/* Go to script.js  */
+
+/* Set the map to be height of 500px, try changing the height and you will see what happen to the map */
+#map {
+    height: 500px;
+}
+
